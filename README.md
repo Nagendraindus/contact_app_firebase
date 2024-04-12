@@ -20,7 +20,9 @@ This is a simple contact management application built using React.js and Firebas
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/contact-management-app.git
+```
+git clone https://github.com/Nagendraindus/contact_app_firebase.git
+```
 
 2. Install dependencies:
 
